@@ -2,7 +2,6 @@ import Header from "@/components/header";
 import "./globals.css";
 import { Inter } from "next/font/google";
 import { ClerkProvider } from "@clerk/nextjs";
-import { shadesOfPurple } from "@clerk/themes";
 import { Toaster } from "sonner";
 import "react-quill-new/dist/quill.snow.css";
 
